@@ -1,0 +1,5 @@
+C:\Users\Raphael\source\repos\TransactionTDD\ClassLibraryTransactionTDD\obj\Debug\net6.0\ClassLibraryTransactionTDD.csproj.AssemblyReference.cache
+C:\Users\Raphael\source\repos\TransactionTDD\ClassLibraryTransactionTDD\obj\Debug\net6.0\ClassLibraryTransactionTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\source\repos\TransactionTDD\ClassLibraryTransactionTDD\obj\Debug\net6.0\ClassLibraryTransactionTDD.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\TransactionTDD\ClassLibraryTransactionTDD\obj\Debug\net6.0\ClassLibraryTransactionTDD.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\TransactionTDD\ClassLibraryTransactionTDD\obj\Debug\net6.0\ClassLibraryTransactionTDD.csproj.CoreCompileInputs.cache
